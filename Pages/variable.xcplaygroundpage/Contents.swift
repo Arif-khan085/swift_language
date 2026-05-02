@@ -1,6 +1,6 @@
 ////: [Previous](@previous)
-//import Foundation
-////print("hello world")
+import Foundation
+print("hello world")
 //
 //var num = 20
 //print(num)

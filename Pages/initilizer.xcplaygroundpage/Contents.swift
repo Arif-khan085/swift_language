@@ -1,0 +1,17 @@
+
+
+
+
+// declare a classs
+class Wall{
+    var length: Double
+    // initializer to initialize property
+    
+    init() {
+        length = 5.5
+        print("Creating a wall.")
+        print("Length = ", length)
+      }
+}
+// create an object
+var wall1 = Wall()
